@@ -1,7 +1,7 @@
 ML-PYTHON-IT
 
-## Made by
-- [Yash.K](https://github.com/yxsh7)
+## Credits
+- [RanjeetKumbhar01](https://github.com/RanjeetKumbhar01)
 
 
 ## 🔗 Links
